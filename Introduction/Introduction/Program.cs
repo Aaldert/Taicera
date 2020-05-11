@@ -12,7 +12,7 @@ namespace Introduction
         static void Main(string[] args)
         {
             Debug.WriteLine("Hello Tai");
-            System.Console.WriteLine("Hello Tai");
+            System.Console.WriteLine(":D");
             Console.ReadLine();
         }
     }
