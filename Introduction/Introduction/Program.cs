@@ -12,8 +12,10 @@ namespace Introduction
         static void Main(string[] args)
         {
             Debug.WriteLine("Hello Tai");
-            System.Console.WriteLine(":D");
+            Class1 c = new Class1();
+
             Console.ReadLine();
+            
         }
     }
 }
